@@ -56,3 +56,40 @@
 Lobby : 0
 LobbyWorldPlatform : 1
 World1 : 10
+
+
+#World 1 circular door code
+#to activate use this:
+/execute as @e[tag=LobbyHappiestDummy3] run scoreboard players set @s World1CircDoorTimer 0
+
+#Door timer
+# /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players add @s World1CircDoorTimer 1
+# /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber70 run scoreboard players set @s World1CircDoorTimer 0
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber0 run scoreboard players add @s World1CircDoorTimer 1
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber70 run scoreboard players set @s World1CircDoorTimer -1
+
+/data merge block 444 57 16 {auto:1b}
+
+#Opening sequence
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 3 run clone 458 60 13 438 60 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 6 run clone 458 56 13 438 56 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 9 run clone 458 52 13 438 52 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 12 run clone 458 48 13 438 48 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 15 run clone 458 44 13 438 44 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 18 run clone 458 40 13 438 40 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 21 run clone 458 36 13 438 36 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 24 run clone 458 32 13 438 32 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 27 run clone 458 28 13 438 28 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 30 run clone 458 24 13 438 24 -7 437 68 19
+
+/execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 33 run clone 458 20 13 438 20 -7 437 68 19

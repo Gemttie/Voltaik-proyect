@@ -1,0 +1,33 @@
+
+[server]
+
+	[server.misc]
+		#Maximum allowable image size in pixels that the server will load (applies to camera/easel)
+		maxImageSizePixels = 2048
+		#How long the seed spreader will wait to re-attempt throwing to a recent location (milliseconds)
+		seedSpreaderThrowCooldown = 5000
+		#How much durability damage the chainsaw takes every time it ticks for damage
+		chainsawDurabilityDamageOnAttack = 26
+		#Configure the number of 'middle' blocks the street light has
+		streetLightMiddlePartCount = 3
+		#Photocopier will generate a new image file (and new unique ID) every time it is used
+		photocopierProducesNewImageFiles = true
+
+	[server.guitar]
+		#Guitar only plays sounds locally
+		guitarOnlyPlaysLocally = false
+
+	[server.flashlight]
+		#Time between flashlight updates (in ticks)
+		flashlightUpdatePeriod = 4
+		#Flashlight block range
+		flashlightRange = 6.0
+
+	[server.handgun]
+		#InteractionHandgun base damage
+		handgunDamage = 19.5
+		#InteractionHandgun headshot damage multiplier
+		handgunCritMultiplier = 2.0
+		#InteractionHandgun is capable of dealing critical-damage headshots
+		handgunEnableHeadshots = true
+
