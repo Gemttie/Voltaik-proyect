@@ -205,19 +205,19 @@
 
     #Warning sign Sounds
         #1--
-        /execute as @e[tag=WarningSignReferentialDummy1] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer1 matches 20 run execute at @e[tag=WarningSignReferentialDummy1] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 1 0.5
+        /execute as @e[tag=WarningSignReferentialDummy1] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer1 matches 20 run execute at @e[tag=WarningSignReferentialDummy1] run playsound orva_alarms:apo1 master @a[distance=..25] ~ ~ ~ 1 0.5
 
         #2--
-        /execute as @e[tag=WarningSignReferentialDummy2] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer2 matches 20 run execute at @e[tag=WarningSignReferentialDummy2] run playsound orva_alarms:apo2 master @a[distance=..30] ~ ~ ~ 0.9 0.5
+        /execute as @e[tag=WarningSignReferentialDummy2] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer2 matches 20 run execute at @e[tag=WarningSignReferentialDummy2] run playsound orva_alarms:apo2 master @a[distance=..25] ~ ~ ~ 0.9 0.5
 
         #3--
-        /execute as @e[tag=WarningSignReferentialDummy3] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer3 matches 20 run execute at @e[tag=WarningSignReferentialDummy3] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 1 0.5
+        /execute as @e[tag=WarningSignReferentialDummy3] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer3 matches 20 run execute at @e[tag=WarningSignReferentialDummy3] run playsound orva_alarms:apo1 master @a[distance=..25] ~ ~ ~ 1 0.5
 
         #4--
-        /execute as @e[tag=WarningSignReferentialDummy4] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer4 matches 20 run execute at @e[tag=WarningSignReferentialDummy4] run playsound orva_alarms:apo2 master @a[distance=..30] ~ ~ ~ 0.9 0.5
+        /execute as @e[tag=WarningSignReferentialDummy4] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer4 matches 20 run execute at @e[tag=WarningSignReferentialDummy4] run playsound orva_alarms:apo2 master @a[distance=..25] ~ ~ ~ 0.9 0.5
 
         #5--
-        /execute as @e[tag=WarningSignReferentialDummy5] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer5 matches 20 run execute at @e[tag=WarningSignReferentialDummy5] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 1 0.5
+        /execute as @e[tag=WarningSignReferentialDummy5] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer5 matches 20 run execute at @e[tag=WarningSignReferentialDummy5] run playsound orva_alarms:apo1 master @a[distance=..25] ~ ~ ~ 1 0.5
 
 
     #HOW TO USE WARNING SIGN:
