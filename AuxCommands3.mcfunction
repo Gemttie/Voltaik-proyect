@@ -57,21 +57,51 @@ Lobby : 0
 LobbyWorldPlatform : 1
 World1 : 10
 
+#Player count code
+#Global max player count
+/scoreboard players set @e[tag=LobbyHappiestDummy2] ConectedPlayers 0
+/execute as @e[tag=TPlayer] run scoreboard players add @e[tag=LobbyHappiestDummy2] ConectedPlayers 1
+    #world 1 player count battle zone 1
+    #to make this more acurate allays use a redstone clock
+    /scoreboard players set @e[tag=World1DataDummy1] World1BattleZonePlayerProxCount 0
+    /execute as @e[tag=TPlayer] at @s if entity @e[tag=World1BattleZoneProxDummy,distance=..21] run scoreboard players add @e[tag=World1DataDummy1] World1BattleZonePlayerProxCount 1
 
-#World 1 circular door code
+#Data Dummies
+#world 1:
+/summon minecraft:armor_stand 20 -60 14 {NoGravity:1b,Invulnerable:1b,Invisible:0b,CustomName:'{"text":"World1DataDummy1"}', CustomNameVisible:0b, Tags:["World1DataDummy1"]}
+
+#TPlayer Test dummies summon
+/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Invisible:0b,CustomName:'{"text":"TPlayer test dummy 1"}', CustomNameVisible:0b, Tags:["TPlayer"]}
+/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Invisible:0b,CustomName:'{"text":"TPlayer test dummy 2"}', CustomNameVisible:0b, Tags:["TPlayer"]}
+/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Invisible:0b,CustomName:'{"text":"TPlayer test dummy 3"}', CustomNameVisible:0b, Tags:["TPlayer"]}
+/summon minecraft:armor_stand ~ ~ ~ {NoGravity:1b,Invulnerable:1b,Invisible:0b,CustomName:'{"text":"TPlayer test dummy 4"}', CustomNameVisible:0b, Tags:["TPlayer"]}
+
+#World1 BattleZoneProxDummy summon
+/summon armor_stand ~ ~ ~ {Tags:["World1BattleZoneProxDummy"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"World1BattleZoneProxDummy"}',CustomNameVisible:0b}
+
+#World1 Door1SoundDummy summon
+/summon armor_stand 471 75 28 {Tags:["World1Door1SoundDummy"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"World1Door1SoundDummy"}',CustomNameVisible:0b}
+
+#World 1 door2 code
 #to activate use this:
 /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players set @s World1CircDoorTimer 0
 
-#Door timer
+#Door2 utility dummy
+    
+
+
+
+#Door2 timer
 # /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players add @s World1CircDoorTimer 1
 # /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber70 run scoreboard players set @s World1CircDoorTimer 0
 
 /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber0 run scoreboard players add @s World1CircDoorTimer 1
 /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer >= @s AuxNumber70 run scoreboard players set @s World1CircDoorTimer -1
 
-/data merge block 444 57 16 {auto:1b}
+/execute as @e[tag=World1DataDummy1] if score @s World1BattleZoneDoor2Toggle matches 0 run setblock 447 68 29 domum_ornamentum:black_brick_extra
+/clone 458 60 13 438 60 -7 437 68 19
 
-#Opening sequence
+#Door2 Opening sequence
 /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 3 run clone 458 60 13 438 60 -7 437 68 19
 
 /execute as @e[tag=LobbyHappiestDummy3] if score @s World1CircDoorTimer matches 6 run clone 458 56 13 438 56 -7 437 68 19
