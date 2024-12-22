@@ -211,28 +211,20 @@
         /execute as @e[tag=WarningSignReferentialDummy2] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer2 matches 20 run execute at @e[tag=WarningSignReferentialDummy2] run playsound orva_alarms:apo2 master @a[distance=..30] ~ ~ ~ 0.9 0.5
 
         #3--
-        /execute as @e[tag=WarningSignReferentialDummy3] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer3 matches 20 run execute at @e[tag=WarningSignReferentialDummy3] run playsound orva_alarms:apo3 master @a[distance=..30] ~ ~ ~ 1 0.5
+        /execute as @e[tag=WarningSignReferentialDummy3] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer3 matches 20 run execute at @e[tag=WarningSignReferentialDummy3] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 1 0.5
 
         #4--
-        /execute as @e[tag=WarningSignReferentialDummy4] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer4 matches 20 run execute at @e[tag=WarningSignReferentialDummy4] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 0.9 0.5
+        /execute as @e[tag=WarningSignReferentialDummy4] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer4 matches 20 run execute at @e[tag=WarningSignReferentialDummy4] run playsound orva_alarms:apo2 master @a[distance=..30] ~ ~ ~ 0.9 0.5
 
         #5--
-        /execute as @e[tag=WarningSignReferentialDummy5] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer5 matches 20 run execute at @e[tag=WarningSignReferentialDummy5] run playsound orva_alarms:apo2 master @a[distance=..30] ~ ~ ~ 1 0.5
-
-
-
-
-
-
-
-
+        /execute as @e[tag=WarningSignReferentialDummy5] if score @e[tag=LobbyHappiestDummy3,limit=1] WarningSignTimer5 matches 20 run execute at @e[tag=WarningSignReferentialDummy5] run playsound orva_alarms:apo1 master @a[distance=..30] ~ ~ ~ 1 0.5
 
 
     #HOW TO USE WARNING SIGN:
     #Just change coordinates where you want to place the sign (External call only)
     #1--
         /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players set @s WarningSignAliveTimer1 0
-        /summon armor_stand 14 -62 8 {Tags:["WarningSignReferentialDummy1"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"WarningSignReferentialDummy1"}',CustomNameVisible:0b}
+        /summon armor_stand 444 84 20 {Tags:["WarningSignReferentialDummy1"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"WarningSignReferentialDummy1"}',CustomNameVisible:0b}
     #2--
         /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players set @s WarningSignAliveTimer2 0
         /summon armor_stand 16 -60 16 {Tags:["WarningSignReferentialDummy2"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"WarningSignReferentialDummy2"}',CustomNameVisible:0b}

@@ -1,0 +1,4828 @@
+{
+  "scalinghealth:recipes/scalinghealth/power_crystal": {
+    "criteria": {
+      "cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_polehammer": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_shestopyor": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_burgundian_gilded_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-11-18 02:42:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-10 12:49:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_longsword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_and_white_brigandine": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 21:41:52 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-10-10 02:39:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-19 16:12:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_heavy_voulge": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-15 00:01:00 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-10 21:41:54 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_jousting_lance": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-12-14 21:40:46 -0500"
+    },
+    "done": true
+  },
+  "wormhole:recipes/wormhole/basic_target_cell": {
+    "criteria": {
+      "recipe_condition": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-09 17:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 14:01:55 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_knights_visored_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2024-10-24 21:23:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:15:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_chainmail_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-05 22:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-08 00:29:12 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_sollerets": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_spiked_mace": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2024-12-21 16:27:25 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_polish_knights_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "wormhole:recipes/wormhole/portal_frame": {
+    "criteria": {
+      "recipe_condition": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_winged_leaf_shaped_spear": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 00:24:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_arabian_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 00:04:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-16 18:43:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:15:53 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-10 21:41:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_fatimid_scale_brigandine": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-01 15:15:56 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
+    "criteria": {
+      "has_log": "2024-12-15 13:59:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_war_scythe": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/big_net": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-25 20:28:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-10 21:41:54 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/fractured_nullstone": {
+    "criteria": {
+      "amphibious_hands": "2024-11-26 13:38:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_heraldic_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/ethereal_wings": {
+    "criteria": {
+      "ethereal_wings": "2024-11-26 13:37:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-12-01 16:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-21 23:59:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-09 03:35:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-11-26 14:22:14 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-10 21:41:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-11-25 20:30:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-10-10 02:40:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-11-26 13:51:55 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_lamellar_brigandine": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-11-25 20:30:13 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_spear": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-11-28 18:22:52 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_knights_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_gilded_visor_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-18 01:11:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-05 22:13:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-11-18 01:11:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_cicak_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-10-11 21:49:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_zweihander": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/bandages": {
+    "criteria": {
+      "cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-25 18:56:01 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_double_flail": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-11-18 01:11:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-01 15:15:56 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_and_white_sallet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_leafblade_claymore": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_cuisses": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_large_viking_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-12-01 16:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_great_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_bill": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_french_knights_round_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/heart_dust": {
+    "criteria": {
+      "cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_green_crested_jousting_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_zweihander": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_flanged_mace": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "wormhole:recipes/wormhole/target_device": {
+    "criteria": {
+      "recipe_condition": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-05 22:13:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_scimitar": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_iron_cap_and_coif": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_and_white_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2024-11-15 23:06:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_norman_mail_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_hussar_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2024-11-15 23:39:31 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-20 01:30:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2024-11-15 23:06:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:15:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-10-10 12:15:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2024-10-10 12:44:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_fatimid_cap": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_hunting_knife": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_sabatons_1": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-11-25 20:30:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_yellow_crested_jousting_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_bastard_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-11-25 18:55:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-17 15:49:27 -0500"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/medkit": {
+    "criteria": {
+      "cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_bardiche": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_scimitar": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-20 19:16:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_leather_pants_with_poleyns": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-11-25 20:30:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 19:59:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_purple_dye": "2024-11-15 23:06:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_and_white_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_spear": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/empty_crate": {
+    "criteria": {
+      "has_iron_bars": "2024-12-15 14:02:59 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_pole_flail": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crusader_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-09 22:17:52 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_teutonic_horned_great_helm": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_knights_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_parrying_dagger": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_hussar_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-10 13:32:46 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
+    "criteria": {
+      "has_wool": "2024-10-11 19:28:59 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_longsword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-15 00:01:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_norman_nasal_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-18 21:17:53 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_mongolian_spiked_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-10 15:05:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-10 23:48:08 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_flammenschwert": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_shortsword_with_gilded_hilt": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/machine_pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_sallet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_polish_knights_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_viking_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_longsword": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-11-18 01:11:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-01 16:51:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-15 18:24:21 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:27 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_spiked_mace": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_black_haubergeon": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_hussar_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2024-12-21 18:37:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-15 00:01:00 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_voulge": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_tapered_sabatons": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-11-25 18:55:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-25 00:16:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-11-18 02:41:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_bastard_sword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-15 18:24:21 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/speed_force": {
+    "criteria": {
+      "speed_force": "2024-11-26 13:47:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2024-12-15 14:29:49 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/broken_ankh": {
+    "criteria": {
+      "broken_ankh": "2024-11-26 13:49:14 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_pike": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_blue_crested_jousting_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-10-11 19:28:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-11-28 18:22:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
+    "criteria": {
+      "has_deepslate_coal_ore": "2024-10-24 21:23:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_tomahawk": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_heavy_halberd": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2024-10-12 00:15:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_flail": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_burgundian_blue_brigandine": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2024-10-10 12:44:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_chainmail_hauberk_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-27 18:04:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/brazier": {
+    "criteria": {
+      "has_bar": "2024-10-10 23:34:49 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/gryphon_cake": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-09 21:59:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_iron": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_palisade": {
+    "criteria": {
+      "has_log": "2024-11-18 01:11:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_jousting_lance": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/iron_arrow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_pitchfork": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_ranseur": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_flail": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shotgun": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_quillon_dagger": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_plain_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_warhammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2024-11-15 23:06:21 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/enderiophage_rocket": {
+    "criteria": {
+      "has_items": "2024-11-18 21:17:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-10-10 12:15:33 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-11-15 20:36:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2024-11-25 20:23:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2024-11-25 20:30:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/english_longbow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-10 14:09:28 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_strapped_mail_chausses": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_hunting_knife": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_pole_flail": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-26 14:02:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-10-10 21:37:27 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_spiked_flail": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_polehammer": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_simple_halberd": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_french_knights_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/empty_jar": {
+    "criteria": {
+      "has_glass": "2024-11-18 23:43:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2024-11-25 20:23:01 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_longbowmans_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/ghast_eye": {
+    "criteria": {
+      "ghast_eye": "2024-11-26 13:55:58 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2024-11-15 20:36:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2024-11-15 23:06:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-11-25 20:23:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2024-11-15 20:36:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-11 19:28:59 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/butterfly_net": {
+    "criteria": {
+      "has_cobweb": "2024-12-10 14:57:44 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-20 19:16:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-17 15:49:27 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2024-11-25 20:23:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-15 18:24:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_glaive": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_large_bec_de_corbin": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_viking_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-10-10 12:45:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-10-10 12:44:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-14 19:57:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_flanged_mace": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_greatsword": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2024-12-22 01:06:52 -0500"
+    },
+    "done": true
+  },
+  "wormhole:recipes/wormhole/coal_generator": {
+    "criteria": {
+      "recipe_condition": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-25 00:16:43 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/steppe_recurve_bow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/small_warbow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-15 23:49:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_black_sabatons": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crusader_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_winged_spear": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_lamellar_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2024-11-15 20:36:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-08 00:29:12 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_kettle_helmet_and_coif": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_sugar_loaf_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-20 13:48:38 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_quarterstaff": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_flammenschwert": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_quillon_dagger": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_bardiche": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_padded_sollerets": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-10-19 17:57:48 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_gilded_viking_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2024-10-25 00:21:26 -0500",
+      "minecraft:skeleton": "2024-11-26 14:43:42 -0500",
+      "minecraft:zombified_piglin": "2024-10-25 00:16:37 -0500",
+      "minecraft:shulker": "2024-10-19 17:57:48 -0500",
+      "minecraft:zombie": "2024-11-26 13:53:46 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-21 19:14:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_gilded_sabatons": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-27 21:40:46 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/reforger": {
+    "criteria": {
+      "reforger": "2024-11-26 13:39:03 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_round_bascinet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_trousers_with_greaves": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-10 21:41:21 -0500"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-10-11 21:13:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_double_flail": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-27 21:40:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_voulge": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2024-11-25 20:23:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-10-10 12:14:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "jeg:recipes/jeg/workbench": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_shortsword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_pitchfork": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_longbow": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 20:00:29 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_black_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_polish_knights_plated_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-11-18 01:11:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-10-10 21:41:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2024-12-09 13:44:42 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-11-18 02:29:09 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crusader_great_helm": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_feathered_lamellar_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-15 13:59:23 -0500"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-10-10 02:39:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-09 22:41:42 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_sleeveless_hauberk": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-09 17:33:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-11 19:28:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-05 22:13:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-09 18:26:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_glaive": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/assault_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_crusader_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_meal_from_goat_horn": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500",
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_shortsword": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_boomerang": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_sollerets_1": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-10-11 23:41:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-10-12 00:15:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_heavy_halberd": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-09 03:35:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_battle_hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-15 00:01:00 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_leafblade_claymore": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:shulker": "2024-10-19 17:57:48 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_poleaxe": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_crested_jousting_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_chainmail_chausses": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-11-25 18:55:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_padded_chausses": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_french_tapered_sabatons": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_poleaxe": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2024-12-09 17:04:58 -0500",
+      "minecraft:forest": "2024-11-18 01:30:37 -0500",
+      "minecraft:lush_caves": "2024-12-14 17:42:00 -0500",
+      "minecraft:jungle": "2024-11-18 01:29:39 -0500",
+      "minecraft:plains": "2024-12-09 19:21:14 -0500"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-05 22:13:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-10-11 19:28:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-11-28 18:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_breeches_with_greaves": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_saber": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_swiss_halberd": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-17 15:49:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-10 15:07:34 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/heavy_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-10-10 23:34:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-11-27 21:40:46 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 00:08:47 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/bar_panel": {
+    "criteria": {
+      "has_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_gilded_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_meal_from_werewolf_fang": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500",
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/dark_nelumbo": {
+    "criteria": {
+      "dark_nelumbo": "2024-10-16 20:28:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-25 20:28:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crusader_padded_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_hussar_pants": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_scythe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_white_sugar_loaf_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2024-12-05 22:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-10-14 22:32:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-11-28 18:22:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_large_viking_sword": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_chestplate": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-10-10 21:42:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-10-10 12:14:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-11-15 15:20:48 -0500",
+      "glow_berries": "2024-12-15 19:13:31 -0500"
+    },
+    "done": false
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_black_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_battleaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crimson_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2024-10-13 22:07:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_block_from_yeti_horn": {
+    "criteria": {
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_meal_from_large_bone": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500",
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_winged_leaf_shaped_spear": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_platelegs_1": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-12-10 21:15:24 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_sabatons": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-11-28 18:22:50 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_glass": {
+    "criteria": {
+      "gustmaker": "2024-11-18 21:21:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-11-15 20:36:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_french_knights_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 00:22:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 21:41:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-12-01 16:42:11 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-25 18:56:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-10-11 18:08:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_large_bec_de_corbin": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/shortbow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_war_scythe": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/hemolymph_blaster": {
+    "criteria": {
+      "hemolymph_blaster": "2024-11-15 23:28:45 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_throwing_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_english_plated_boots": {
+    "criteria": {
+      "has_netherite_boots": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_chestplate_1": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_heavy_voulge": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 14:01:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 23:37:54 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_shestopyor": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/heavy_warbow": {
+    "criteria": {
+      "has_bow": "2024-11-26 13:39:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_purple_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_bill_hook": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2024-11-15 20:36:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-11-28 18:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_crusader_haubergeon": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-10-10 21:37:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-11-15 23:05:49 -0500"
+    },
+    "done": true
+  },
+  "wormhole:recipes/wormhole/basic_energy_cell": {
+    "criteria": {
+      "recipe_condition": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-10-19 17:28:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-10-10 21:41:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-10 13:32:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-09 22:14:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-21 16:48:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-08 00:34:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-15 00:08:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-10-20 23:11:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-22 01:06:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-18 01:11:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-09 15:44:57 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_javelin": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_polish_knights_cuisses": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_knights_platelegs": {
+    "criteria": {
+      "has_netherite_leggings": "2024-11-26 14:20:17 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_gilded_cuirass_and_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-16 21:27:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-15 15:13:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-11-17 15:49:27 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2024-11-26 13:39:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_red_hauberk": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-11-26 14:20:16 -0500"
+    },
+    "done": true
+  },
+  "scalinghealth:recipes/scalinghealth/heart_crystal": {
+    "criteria": {
+      "cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_ranseur": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-08 00:29:12 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-09 14:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 14:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-11-18 01:11:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2024-10-10 21:46:10 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_swiss_halberd": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_meal_from_ram_horn": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500",
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_shortsword_with_gilded_hilt": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 15:05:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-10 21:41:54 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-15 23:01:50 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "nmcmobs:recipes/leprechaun_treasure": {
+    "criteria": {
+      "has_gold_block": "2024-11-17 01:54:07 -0500"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/root": {
+    "criteria": {
+      "obtain": "2024-10-16 20:28:36 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_purple_nasal_helmet": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_bill_hook": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_chainmail_coif": {
+    "criteria": {
+      "has_netherite_helmet": "2024-11-26 14:20:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2024-11-25 20:28:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-10-11 22:31:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-11-15 20:37:50 -0500"
+    },
+    "done": true
+  },
+  "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-15 13:34:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2024-11-15 23:06:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-11-18 01:11:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-10-10 21:41:54 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2024-12-09 14:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_block_from_minotaur_tusk": {
+    "criteria": {
+      "has_the_recipe": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-09 22:14:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-15 14:01:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-01 15:15:56 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/bone_meal_from_piranha_tooth": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2024-11-25 18:56:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-10 21:59:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 23:00:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-11-26 14:20:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-10-24 21:23:32 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_simple_halberd": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-11-15 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-09 22:16:14 -0500"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2024-12-21 16:27:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-10 13:23:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/refined_spiked_flail": {
+    "criteria": {
+      "has_diamond_sword": "2024-10-25 00:16:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-10-11 22:27:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-10-10 02:39:29 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
+    "criteria": {
+      "has_stick": "2024-10-10 12:44:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2024-11-15 23:06:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-27 18:14:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2024-11-25 20:23:12 -0500"
+    },
+    "done": true
+  },
+  "conq_medieval_arms:recipes/combat/exquisite_bill": {
+    "criteria": {
+      "has_netherite_sword": "2024-11-26 13:58:23 -0500"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2024-12-15 18:23:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-15 15:09:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-10-11 00:22:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-12-20 13:48:34 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2024-10-22 23:53:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-11-18 01:10:25 -0500"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2024-12-14 23:42:11 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
