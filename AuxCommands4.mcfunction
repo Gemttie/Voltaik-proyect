@@ -1,5 +1,6 @@
-#coords worlds
-447 71 29
+#Cool particle effect
+/particle minecraft:glow ~ ~ ~ 0.5 0.5 0.5 0.1 50
+
 
 #Warning sign isntance code:
     #Warning sign scoreboards used:
@@ -237,3 +238,5 @@
     #5--
         /execute as @e[tag=LobbyHappiestDummy3] run scoreboard players set @s WarningSignAliveTimer5 0
         /summon armor_stand 15 -58 12 {Tags:["WarningSignReferentialDummy5"],Invisible:1b,Marker:1b,NoGravity:1b,Invulnerable:1b,CustomName:'{"text":"WarningSignReferentialDummy5"}',CustomNameVisible:0b}
+
+        
